@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/sh4mia/DoIT.">DoIT</a><br>🌱 I’m currently learning Django <br>🤴 I would like to learn: React, Kotlin, FastAPI<br>📨 shamiawspolpraca@gmail.com
+🔭 I’m currently working on <a href="https://github.com/sh4mia/DoIT.">DoIT</a><br>🌱 I’m currently learning Django <br>🤴 I would like to learn: React, Go, FastAPI, Flask<br>📨 shamiawspolpraca@gmail.com
 
 
 ## 🌐 Socials:
