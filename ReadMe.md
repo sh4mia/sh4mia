@@ -1,4 +1,5 @@
 # 💫 About Me:
+💼 IT Field Support Junior Specialist<br>
 🔭 I’m currently working on <a href="https://github.com/sh4mia/DoIT.">DoIT</a> & <a href="https://github.com/sh4mia/TrapHub">TrapHub</a><br>🌱 I’m currently learning Django <br>🤴 I would like to learn: React, Go, FastAPI, Flask<br>📨 shamiawspolpraca@gmail.com
 
 
